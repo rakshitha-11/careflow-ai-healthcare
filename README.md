@@ -161,13 +161,13 @@ careflow-ai-healthcare/
 
 ---
 
-## 👩‍💻 Author
+### 👩‍💻 Author
 
 Rakshitha
 GitHub: https://github.com/rakshitha-11
 
 ---
 
-## 📜 License
+### 📜 License
 
 This project is created for **educational and portfolio purposes**.
