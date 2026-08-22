@@ -159,7 +159,3 @@ careflow-ai-healthcare/
 ├── LICENSE
 └── README.md
 
-### 👩‍💻 Author
-P. Rakshitha
-B.Tech – CSE
-VIT Bhopal University
