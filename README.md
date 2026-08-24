@@ -164,4 +164,4 @@ P Rakshitha
 GitHub: https://github.com/rakshitha-11
 
 📜 License
-This project is created for **educational and portfolio purposes**.
+This project is created for educational and portfolio purposes.
